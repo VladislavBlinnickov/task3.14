@@ -4,7 +4,7 @@
 
 LICENSE: [MIT](./license.md)
 
-<img src="./assets/git_logo.png" alt= "Логотип" width="200">
+<img src="./assets/git_logo.png" alt= "Логотип Git" width="200">
 
 ---
 
